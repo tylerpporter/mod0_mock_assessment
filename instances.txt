@@ -1,0 +1,5 @@
+Instances:
+Border Collie
+Whippet
+Puggle
+Dalmatian
