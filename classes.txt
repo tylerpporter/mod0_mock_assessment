@@ -1,0 +1,10 @@
+Class = Dog
+
+Attributes:
+Coat_length (string)
+Average_weight (integer)
+Tail_length (integer)
+Floppy_ears (boolean)
+Coat_color (string)
+
+Methods:
