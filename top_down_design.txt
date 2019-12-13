@@ -1,0 +1,28 @@
+Making a Sandwich
+
+1 Place slice bread (A) on plate
+    1.1 Open bread bag
+        1.1.1 go to kitchen
+        1.1.2 open pantry
+        1.1.3 remove bread bag from pantry
+            1.1.3.1 select bread type
+    1.2 Remove slice bread (A)
+2 Place meat on bread
+    2.1 Open package of meat
+        2.1.1 open fridge
+        2.1.2 open meat drawer
+        2.1.3 remove package of meat
+            2.1.3.1 select meat type
+3 Place cheese on meat
+    3.1 Slice cheese
+        3.1.1 get knife
+            3.1.1.1 open drawer
+            3.1.1.1 select knife
+        3.1.2 get cheese
+            3.1.2.1 open fridge
+            3.1.2.2 remove block of cheese
+                3.1.2.2.1 select type of cheese
+4 Place slice bread (B) on cheese
+    4.1 Open bread bag
+        4.1.1 lift bread bag from counter top
+    4.2 Remove slice bread (B)
