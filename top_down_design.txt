@@ -17,7 +17,7 @@ Making a Sandwich
     3.1 Slice cheese
         3.1.1 get knife
             3.1.1.1 open drawer
-            3.1.1.1 select knife
+            3.1.1.2 select knife
         3.1.2 get cheese
             3.1.2.1 open fridge
             3.1.2.2 remove block of cheese
